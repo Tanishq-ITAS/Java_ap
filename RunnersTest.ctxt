@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=RunnersTest
+comment0.text=\n\ The\ test\ class\ RunnersTest.\n\ \n\ @author\ \ Mark\ Dutchuk\ and\ Dave\ Croft\n\ @version\ 2020-10-08\n
+comment1.params=name1\ name2\ name3
+comment1.target=RunnersTest(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor.\ This\ won't\ work\ until\ you've\ \n\ finished\ the\ Runners\ class\!\n
+comment2.params=
+comment2.target=void\ test1()
+comment3.params=
+comment3.target=void\ test2()
+comment4.params=
+comment4.target=void\ test3()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
